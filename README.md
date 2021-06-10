@@ -7,7 +7,7 @@ Kendi halimde bot yapıyorum yada yaptığımı sanıyorum bende anlamadım vall
 - 👯 Site işinde iyi para var diyolar ama bakalım
 - 🎈 Fotoşok falan bilen varsa gelsin de bana öğretsin
 
-🐦 Discord İsmim(Tedoa#1907) | [🏡 Belki Bana Ulaşabileceğin Sunucu](https://discord.gg/awJ9U2YWqV)
+🐦 Discord İsmim(Tedoa#0001) | [🏡 Belki Bana Ulaşabileceğin Sunucu](https://discord.gg/awJ9U2YWqV)
 
 <h2>My social media accounts:</h2>
  <a href="https://discord.com/users/790771891597738004" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
