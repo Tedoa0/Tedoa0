@@ -9,6 +9,6 @@ Kendi halimde bot yapıyorum yada yaptığımı sanıyorum bende anlamadım vall
 
 🐦 Discord İsmim(Tedoa#1907) | [🏡 Belki Bana Ulaşabileceğin Sunucu](https://discord.gg/awJ9U2YWqV)
 
-<h3>My social media accounts:</h3>
+<h2>My social media accounts:</h2>
  <a href="https://discord.com/users/790771891597738004" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCxIBaIpeUyRM3Xm3ZT_ZbPQ" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
