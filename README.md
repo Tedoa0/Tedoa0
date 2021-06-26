@@ -15,5 +15,5 @@ Kendi halimde bot yapıyorum yada yaptığımı sanıyorum bende anlamadım vall
    <a href="https://www.instagram.com/tedoa00" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
-##  Discord Activity
+## Discord Activity
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852624608434978859)](https://discord.com/users/852624608434978859)
