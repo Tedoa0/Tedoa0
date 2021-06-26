@@ -11,10 +11,6 @@ Kendi halimde bot yapıyorum yada yaptığımı sanıyorum bende anlamadım vall
 
 
 
-## Spotify Playing Now:
-
-  [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/0oobwbas1vic587f8nvlh0qom)
-
 
 <h2>My social media accounts:</h2>
  <a href="https://discord.com/users/852624608434978859" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
