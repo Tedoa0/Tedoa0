@@ -16,4 +16,4 @@ Kendi halimde bot yapıyorum yada yaptığımı sanıyorum bende anlamadım vall
 
 
 ## Discord Activity
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/239330400223232000)](https://discord.com/users/239330400223232000)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/839950881382203452)](https://discord.com/users/839950881382203452)
