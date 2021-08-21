@@ -16,3 +16,5 @@ Kendi halimde bot yapıyorum yada yaptığımı sanıyorum bende anlamadım vall
  <a href="https://discord.com/users/852624608434978859" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCxIBaIpeUyRM3Xm3ZT_ZbPQ" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://www.instagram.com/tedoa00" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+   
+   <h2>Profilm: https://discord.com/users/852624608434978859" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852624608434978859</h2>
