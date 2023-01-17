@@ -2,7 +2,7 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Tedoa0&show_icons=true&hide_title=true&theme=merko">
 
-Kendi halimde bot yapıyorum yada yaptığımı sanıyorum bende anlamadım valla
+Kendi halimde kod yazıyorum yada yazdığımı sanıyorum bende anlamadım valla 🙄
 
 - 👯 Site işinde iyi para var diyolar ama bakalım
 - 🎈 Fotoşok falan bilen varsa gelsin de bana öğretsin
